@@ -251,6 +251,9 @@ body {
   padding-top: 14px;
   padding-right: 6px;
 }
+.box__more a {
+  color: rgb( 255, 255, 255 );
+}
 .box__more:hover {
   text-shadow: 0px 0px 8px rgb( 255, 255, 255 );
 }
@@ -336,6 +339,9 @@ body {
   color: rgb( 69, 69, 69 );
   text-shadow: none;
   padding-top: 20px;
+}
+.box__more_3 a {
+  color: rgb( 69, 69, 69 );
 }
 .logos {
   height: 96px;
